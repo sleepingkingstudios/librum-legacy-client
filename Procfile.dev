@@ -1,0 +1,2 @@
+server:   yarn server:start
+webpack:  API_URL=http://localhost:5100 yarn client:start
